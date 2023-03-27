@@ -29,11 +29,8 @@ implémentation du modèle MVC/Objet/POO
 
 Le site utilise une architecture MVC (Modèle-Vue-Contrôleur), ce qui signifie que toutes les demandes de l'utilisateur sont transmises au contrôleur via le fichier index(routeur). Le contrôleur effectue les actions nécessaires et renvoie les pages appropriées. Le routeur appelle les fonctions nécessaires pour répondre aux demandes de l'utilisateur, puis transmet les valeurs pour les afficher sur la vue de la page demandée.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/c1ba24a1-2179-459c-ac1c-2d59f636667d/Untitled.png)
-
 Chaque vue est définie par le fichier gabarit.php, qui détermine l'apparence générale du site. Le tableau affiché sur la page test est généré à partir de requêtes SQL effectuées dans les fichiers disponibles dans le dossier modèle. Ce tableau est un tableau d'objets contenant la liste de tous les Pokémon et leurs types présents dans la base de données. Chaque Pokémon est un objet, de même que chaque type, créé respectivement par les classes 'pokemon.php' et 'type.php'.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1789833e-c7f6-46ff-9986-2dc97680a96b/Untitled.png)
 
 # Etape 2
 
