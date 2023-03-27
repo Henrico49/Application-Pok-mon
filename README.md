@@ -1,6 +1,6 @@
 # Description
 
-Projet de développement web durant ma 3e année de licence
+Projet de développement web durant ma 3e année de licence, qui consiste à la création d'une application de gestion de pokémon
 
 Ce projet a été séparé en 3 étapes distinct, vous retrouverez toutes les choses qui ont été faite à chaque étape dans la suite de ce readme.
 
